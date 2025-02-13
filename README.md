@@ -16,7 +16,7 @@ Chain is a lightweight, type-safe stream processing library for Go, featuring pa
 ### Installation
 
 ```bash
-go get github.com/yourusername/chain
+go get github.com/c4pt0r/chain
 ```
 
 ### Basic Usage
@@ -28,7 +28,7 @@ import (
     "context"
     "fmt"
     
-    "github.com/yourusername/chain"
+    "github.com/c4pt0r/chain"
 )
 
 func main() {
